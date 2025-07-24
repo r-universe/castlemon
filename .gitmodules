@@ -5,3 +5,6 @@
 [submodule "HDBRR"]
 	path = HDBRR
 	url = https://github.com/cran/HDBRR
+[submodule "MDCcure"]
+	path = MDCcure
+	url = https://github.com/castlemon/mdccure
